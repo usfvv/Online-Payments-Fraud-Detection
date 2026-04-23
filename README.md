@@ -18,9 +18,7 @@ This project aims to analyze transaction data and build a predictive model that 
 ## 🧠 Machine Learning Models Used
 
 - Logistic Regression  
-- Random Forest  
 - Decision Tree  
-- (Optional: XGBoost if used)
 
 ## 📈 Evaluation Metrics
 
